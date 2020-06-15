@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33747" started-at="2020-06-12T03:25:47Z" finished-at="2020-06-12T03:26:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33747" started-at="2020-06-12T03:25:47Z" finished-at="2020-06-12T03:26:21Z">
+      <class name="com.orangehrm.commonfunctions.Hrm_Admin_page">
+        <test-method status="PASS" signature="Browser()[pri:1, instance:com.orangehrm.commonfunctions.Hrm_Admin_page@e2abd]" name="Browser" duration-ms="14137" started-at="2020-06-12T08:55:47Z" finished-at="2020-06-12T08:56:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser -->
+        <test-method status="PASS" signature="login_page()[pri:2, instance:com.orangehrm.commonfunctions.Hrm_Admin_page@e2abd]" name="login_page" duration-ms="9540" started-at="2020-06-12T08:56:01Z" finished-at="2020-06-12T08:56:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_page -->
+        <test-method status="PASS" signature="Pim_Details()[pri:3, instance:com.orangehrm.commonfunctions.Hrm_Admin_page@e2abd]" name="Pim_Details" duration-ms="5419" started-at="2020-06-12T08:56:11Z" finished-at="2020-06-12T08:56:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pim_Details -->
+        <test-method status="PASS" signature="leave_page()[pri:3, instance:com.orangehrm.commonfunctions.Hrm_Admin_page@e2abd]" name="leave_page" duration-ms="4549" started-at="2020-06-12T08:56:16Z" finished-at="2020-06-12T08:56:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- leave_page -->
+      </class> <!-- com.orangehrm.commonfunctions.Hrm_Admin_page -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
